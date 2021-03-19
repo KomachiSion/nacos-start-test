@@ -24,13 +24,13 @@ Nacos 帮助您更敏捷和容易地构建、交付和管理微服务平台。 N
 在本实验中，您可以使用以下命令直接下载
 
 ```
-curl -OL https://github.com/alibaba/nacos/releases/download/2.0.0-BETA/nacos-server-2.0.0-BETA.tar.gz
+curl -OL https://handson.oss-cn-shanghai.aliyuncs.com/nacos-server-2.0.0-tutorial.tar.gz
 ```
 
 下载完成后，仅需要解压即可安装完成。
 
 ```
-tar -zxvf nacos-server-2.0.0-BETA.tar.gz
+tar -zxvf nacos-server-2.0.0-tutorial.tar.gz
 ```
 
 ## 2. 启动Nacos服务端
